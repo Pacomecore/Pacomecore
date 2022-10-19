@@ -8,7 +8,7 @@
 
 <p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town (UCT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-<h3> Learning & development </h3>
+<h3> 👨🏻‍💻 Learning & development </h3>
 
 - 🤔 &nbsp; Exploring Data Sciences and Machine Learning.
 - 🌱 &nbsp; Learning High Performance Computing in Cloud Computing.
