@@ -28,7 +28,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b> :)</em>
 
 <p align="center">
-<a href="https://twitter.com/pacomenguimeya/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Pacomegp-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/Pacomegp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Pacomegp-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.linkedin.com/in/pacome-nguimeya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@pacome-nguimeya-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/pacomenguimeya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@pacomenguimeya-blue?style=flat&logo=stackoverflow"></a>
 </p>
