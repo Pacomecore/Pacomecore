@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/> 
 </p> 
 
-<h1 align="center"> Hi there!:wave: I'm Pacome. </h1>
+<h1 align="center"> Hi there!:wave: I am Pacome. </h1>
 
 <h3> :man_beard: &nbsp; About Me :point_down: </h3>
 
@@ -20,7 +20,7 @@
 - :globe_with_meridians: &nbsp; <em>HTML5</em> | <em>CSS3</em> | <em>JavaScript</em>
 
 <h3> :handshake: &nbsp; Connect with Me </h3>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</em>:sunglasses:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I am always interested in meeting new people, so feel free to reach out to me using the links below.</em>:sunglasses:
 
 <h2>
 <p align="left">
