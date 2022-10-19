@@ -16,16 +16,6 @@
 
 - 💻 &nbsp; Python | Bash
 - 🌐 &nbsp; HTML | CSS
-<!--
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-<h3>🛠 To Learn</h3>
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-<hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b> :)</em>
