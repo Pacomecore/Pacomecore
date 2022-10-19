@@ -4,22 +4,22 @@
 
 <h1 align="center"> Hi there!👋 I'm Pacome. </h1>
 
-<h3> 👨🏻 About Me </h3>
+<h3> 👨🏻 &nbsp; About Me </h3>
 
-<p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :mortar_board::books:
+<p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :books::mortar_board:
 
-<h3> 👨🏻‍💻 Learning & development </h3>
+<h3> 👨🏻‍💻 &nbsp; Learning & development </h3>
 
 - 🤔 &nbsp; <em>Exploring Data Sciences and Machine Learning.</em>
 - :hourglass_flowing_sand: &nbsp; <em>Learning High Performance Computing in Cloud Computing.</em>
 - ✍️ &nbsp; <em>Pursuing web development as a hobby or side hustle.</em>
 
-<h3> :computer: Programming Languages </h3>
+<h3> 🛠 &nbsp; Programming Languages </h3>
 
 - 💻 &nbsp; <em>Python</em> | <em>Bash</em>
 - 🌐 &nbsp; <em>HTML5</em> | <em>CSS</em>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 &nbsp; Connect with Me </h3>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b></em>:sunglasses:
 
 <h2>
