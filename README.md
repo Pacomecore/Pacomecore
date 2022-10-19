@@ -16,8 +16,8 @@
 
 <h3> 🛠 &nbsp; Programming Languages </h3>
 
-- 💻 &nbsp; <em>Python</em> | <em>Bash</em>
-- 🌐 &nbsp; <em>HTML5</em> | <em>CSS</em>
+- 💻 &nbsp; <em>Bash Script</em> | <em>Python</em>
+- 🌐 &nbsp; <em>HTML5</em> | <em>CSS3</em> | <em>JavaScript</em>
 
 <h3> 🤝🏻 &nbsp; Connect with Me </h3>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</em>:sunglasses:
