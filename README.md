@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/>
+</p> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
 ### Hi there!👋 I'm Pacome.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -28,8 +32,6 @@
 <a href="https://twitter.com/pacomenguimeya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@pacomenguimeya-blue?style=flat&logo=twitter"></a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/>
-</p> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
 
 
