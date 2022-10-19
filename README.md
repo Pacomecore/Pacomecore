@@ -20,7 +20,7 @@
 - 🌐 &nbsp; <em>HTML5</em> | <em>CSS</em>
 
 <h3> 🤝🏻 Connect with Me </h3>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b> ![image](https://user-images.githubusercontent.com/116069480/196667419-aacd562f-4934-4617-ae21-4312502afee3.png)</em>
 
 <h2>
 <p align="left">
