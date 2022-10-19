@@ -8,13 +8,13 @@
 
 <p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :books:
 
-<h3> :man_technologist: &nbsp; Learning & development </h3>
+<h3> :man_technologist: &nbsp; Learning </h3>
 
 - :thinking: &nbsp; <em>Exploring Data Sciences and Machine Learning.</em>
 - :hourglass_flowing_sand: &nbsp; <em>Learning High Performance Computing in Cloud Computing.</em>:monocle_face:
 - :writing_hand: &nbsp; <em>Pursuing web development as a hobby.</em>
 
-<h3> :gear: &nbsp; Programming Languages </h3>
+<h3> :gear: &nbsp; Programming Languages & Web Development </h3>
 
 - :computer: &nbsp; <em>Bash Script</em> | <em>Python</em> | <em>Fortran</em> | <em>C++</em>
 - :globe_with_meridians: &nbsp; <em>HTML5</em> | <em>CSS3</em> | <em>JavaScript</em> | <em>Bootstrap</em> | <em>wxWidgets</em> | <em>gtk3</em>
