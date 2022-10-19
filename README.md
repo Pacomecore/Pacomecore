@@ -31,7 +31,7 @@
 
 <p align="left">
 <a href="https://github.com/Pacomegp/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Pacomegp-blue?style=flat&logo=github"></a>
-<a href="[https://www.linkedin.com/in/pacome-nguimeya](https://www.linkedin.com/in/pacome-nguimeya/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacome-nguimeya-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/pacome-nguimeya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacome nguimeya-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/pacomenguimeya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@pacomenguimeya-blue?style=flat&logo=twitter"></a>
 </p>
 
