@@ -11,10 +11,10 @@
 <h3> 👨🏻‍💻 Learning & development </h3>
 
 - 🤔 &nbsp; <em>Exploring Data Sciences and Machine Learning.</em>
-- :hourglass_flowing_sand: <em>Learning High Performance Computing in Cloud Computing.</em>
+- :hourglass_flowing_sand: &nbsp; <em>Learning High Performance Computing in Cloud Computing.</em>
 - ✍️ &nbsp; <em>Pursuing web development as a hobby or side hustle.</em>
 
-<h3> 🛠 Programming Languages </h3>
+<h3> :computer: Programming Languages </h3>
 
 - 💻 &nbsp; <em>Python</em> | <em>Bash</em>
 - 🌐 &nbsp; <em>HTML5</em> | <em>CSS</em>
