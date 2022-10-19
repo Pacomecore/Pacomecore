@@ -10,7 +10,7 @@
 
 Ask me about the following Density Functional Theory (DFT) & Boltzmann Transport Theory (BTT) packages: <em><a href="https://www.quantum-espresso.org/">Quantum Espresso</a></em>, <em><a href="http://www.wannier.org/">Wannier90</a></em>, <em><a href="http://www.wanniertools.com/">WannierTools</a></em>, <em><a href="https://wannier-berri.org//">Wannier Berri</a></em>, <em><a href="https://z2pack.greschd.ch/en/latest/">Z2Pack</a></em>, <em><a href="https://epw-code.org/">Electron Phonon Wannier (EPW)</a></em>, <em><a href="https://gitlab.com/sousaw/BoltzTraP2">BoltzTrap2</a></em>, <em><a href="https://phonopy.github.io/phono3py/">Phono3py</a></em>, <em><a href="https://almabte.bitbucket.io/">AlmaBTE</a></em>, <em><a href="https://www.shengbte.org/">ShengBTE</a></em> & <em><a href="https://www.shengbte.org/announcements/thirdorderpyv110released">Thirdorder</a></em>.
 
-<h3> :man_technologist: &nbsp; Learning </h3>
+<h3> :man_technologist: &nbsp; Learning ... </h3>
 
 - :thinking: &nbsp; <em>Exploring Data Sciences and Machine Learning.</em>
 - :hourglass_flowing_sand: &nbsp; <em>Learning High Performance Computing in Cloud Computing.</em>:monocle_face:
