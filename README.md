@@ -6,7 +6,7 @@
 
 <h3> 👨🏻 About Me </h3>
 
-<p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :mortar_board:
+<p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :mortar_board::books:
 
 <h3> 👨🏻‍💻 Learning & development </h3>
 
@@ -20,7 +20,7 @@
 - 🌐 &nbsp; <em>HTML5</em> | <em>CSS</em>
 
 <h3> 🤝🏻 Connect with Me </h3>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b> :sunglasses:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b></em>:sunglasses:
 
 <h2>
 <p align="left">
