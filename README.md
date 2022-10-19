@@ -12,7 +12,7 @@
 
 - :thinking: &nbsp; <em>Exploring Data Sciences and Machine Learning.</em>
 - :hourglass_flowing_sand: &nbsp; <em>Learning High Performance Computing in Cloud Computing.</em>:monocle_face:
-- :writing_hand: &nbsp; <em>Pursuing web development as a hobby or side hustle.</em>
+- :writing_hand: &nbsp; <em>Pursuing web development as a hobby.</em>
 
 <h3> :gear: &nbsp; Programming Languages </h3>
 
