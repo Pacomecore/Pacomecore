@@ -1,10 +1,10 @@
-### Hi there!👋 I'm Pacome.</h2>
+### Hi there!👋 I'm Pacome.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻 About Me </h3>
 
-<p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the<a href="https://www.uct.ac.za/">University of Cape Town (UCT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town (UCT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
 <h3> Learning & development </h3>
 
@@ -12,7 +12,7 @@
 - 🌱 &nbsp; Learning High Performance Computing in Cloud Computing.
 - ✍️ &nbsp; Pursuing web development as a hobby or side hustle.
 
-<h3> 🛠 Programming </h3>
+<h3> 🛠 Programming Languages </h3>
 
 - 💻 &nbsp; Python | Bash
 - 🌐 &nbsp; HTML | CSS
