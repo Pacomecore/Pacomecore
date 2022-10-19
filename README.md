@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there!👋 I'm Pacome. </h1>
 
-<h3> 👨 :man: &nbsp; About Me </h3>
+<h3> :man_beard: &nbsp; About Me </h3>
 
 <p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :books:
 
