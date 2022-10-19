@@ -16,8 +16,8 @@
 
 <h3> :gear: &nbsp; Programming Languages </h3>
 
-- :computer: &nbsp; <em>Bash Script</em> | <em>Python</em>
-- :globe_with_meridians: &nbsp; <em>HTML5</em> | <em>CSS3</em> | <em>JavaScript</em>
+- :computer: &nbsp; <em>Bash Script</em> | <em>Python</em> | <em>Fortran</em> | <em>C++</em>
+- :globe_with_meridians: &nbsp; <em>HTML5</em> | <em>CSS3</em> | <em>JavaScript</em> | <em>Bootstrap</em> | <em>wxWidgets</em> | <em>gtk3</em>
 
 <h3> :handshake: &nbsp; Connect with Me </h3>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I am always interested in meeting new people, so feel free to reach out to me using the links below.</em>:sunglasses:
