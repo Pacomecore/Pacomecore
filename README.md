@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/>
-</p> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/><img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+</p> 
 
 ### Hi there!👋 I'm Pacome.
 
