@@ -29,7 +29,7 @@
 [![Linkedin: Pacome](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacome-nguimeya/?originalSubdomain=za)](https://www.linkedin.com/in/pacome-nguimeya/?originalSubdomain=za)
 [![GitHub Pacomegp](https://img.shields.io/github/followers/Pacomegp?label=follow&style=social)](https://github.com/Pacomegp)
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
+  <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/>
 </p> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
