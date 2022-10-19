@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/> 
 </p> 
 
-### Hi there!👋 I'm Pacome.
+<h1 align="center"> Hi there!👋 I'm Pacome. </h1>
 
 <h3> 👨🏻 About Me </h3>
 
