@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Pacomegp" alt="Pacomegp"/> 
 </p> 
 
-<h1 align="center"> Hi there!:wave: I am Pacome. </h1>
+<h1 align="center"> Hi, I'm Pacome!:wave: </h1>
 
 <h3> :man_beard: &nbsp; About Me :point_down: </h3>
 
