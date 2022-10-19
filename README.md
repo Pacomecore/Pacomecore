@@ -8,7 +8,7 @@
 
 <p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> :books:
 
-💬 Ask me about the following paackages: <em>Quantum Espresso</em>,<em>Wannier90</em>, <em>WannierTools</em>, <em>Z2Pack</em>, <em>Electron Phonon Wannier (EPW)</em>, <em>BoltzTrap2</em>, <em>Phono3py</em>, <em>AlmaBTE</em>, <em>ShengBTE</em> & <em>Thirdorder</em>.
+💬 <b>Ask me about the following paackages:</b> <em>Quantum Espresso</em>, <em>Wannier90</em>, <em>WannierTools</em>, <em>Z2Pack</em>, <em>Electron Phonon Wannier (EPW)</em>, <em>BoltzTrap2</em>, <em>Phono3py</em>, <em>AlmaBTE</em>, <em>ShengBTE</em> & <em>Thirdorder</em>.
 
 <h3> :man_technologist: &nbsp; Learning </h3>
 
