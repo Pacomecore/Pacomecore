@@ -10,14 +10,14 @@
 
 <h3> 👨🏻‍💻 Learning & development </h3>
 
-- 🤔 &nbsp; Exploring Data Sciences and Machine Learning.
-- 🌱 &nbsp; Learning High Performance Computing in Cloud Computing.
-- ✍️ &nbsp; Pursuing web development as a hobby or side hustle.
+- 🤔 &nbsp; <em>Exploring Data Sciences and Machine Learning.</em>
+- 🌱 &nbsp; <em>Learning High Performance Computing in Cloud Computing.</em>
+- ✍️ &nbsp; <em>Pursuing web development as a hobby or side hustle.</em>
 
 <h3> 🛠 Programming Languages </h3>
 
-- 💻 &nbsp; Python | Bash
-- 🌐 &nbsp; HTML | CSS
+- 💻 &nbsp; <em>Python</em> | <em>Bash</em>
+- 🌐 &nbsp; <em>HTML</em> | <em>CSS</em>
 
 <h3> 🤝🏻 Connect with Me </h3>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b> :)</em>
