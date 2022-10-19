@@ -4,19 +4,18 @@
 
 <h3> 👨🏻 About Me </h3>
 
-<p><em>Ph.D. candidate at <a href="https://www.uct.ac.za/">University of Cape Town (UCT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the<a href="https://www.uct.ac.za/">University of Cape Town (UCT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
-<h3> 💻 Programming </h3>
+<h3> Learning & development </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🤔 &nbsp; Exploring Data Sciences and Machine Learning.
+- 🌱 &nbsp; Learning High Performance Computing in Cloud Computing.
+- ✍️ &nbsp; Pursuing web development as a hobby or side hustle.
 
-<h3>🛠 Tech Stack</h3>
+<h3> 🛠 Programming </h3>
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 💻 &nbsp; Python | Bash
+- 🌐 &nbsp; HTML | CSS
 <!--
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
