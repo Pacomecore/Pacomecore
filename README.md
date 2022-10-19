@@ -4,12 +4,10 @@
 
 ### Hi there!👋 I'm Pacome.
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 <h3> 👨🏻 About Me </h3>
 
 <p><em>I am a Ph.D. candidate in Computational Condensed Matter and Materials Physics at the <a href="https://www.uct.ac.za/">University of Cape Town (UCT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  
+
 <h3> Learning & development </h3>
 
 - 🤔 &nbsp; Exploring Data Sciences and Machine Learning.
@@ -20,8 +18,6 @@
 
 - 💻 &nbsp; Python | Bash
 - 🌐 &nbsp; HTML | CSS
-  
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 🤝🏻 Connect with Me </h3>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always interested in meeting new people, so feel free to reach out to me using the links below.</b> :)</em>
@@ -33,7 +29,3 @@
 <a href="https://twitter.com/pacomenguimeya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@pacomenguimeya-blue?style=flat&logo=twitter"></a>
 </p>
 <h2/>
-
-
-
-
